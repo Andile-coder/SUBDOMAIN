@@ -1,0 +1,14 @@
+{
+  "name": "pdf-finder",
+  "version": "1.0.4",
+  "description": "Finds pdf links in all subdomains of the given domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andile Masela",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
